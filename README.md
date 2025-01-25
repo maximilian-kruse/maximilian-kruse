@@ -6,6 +6,8 @@
 
 :anatomical_heart: Application to the ***Inverse Problem of Cardiac Electrophysiology***.
 
+:snake: Python-based, nostalgia for C++, Julia fan, believing in Rust.
+
 :thinking: AI as cool, but let's not forget everything we have learned over the last centuries.
 
 :desktop_computer: Software is value, in academia we can do much better!
