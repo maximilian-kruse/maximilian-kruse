@@ -1,4 +1,4 @@
-:rocket: Simulation Scientist at [Zeiss Semiconductor Manufacturing Technology](https://www.zeiss.de/semiconductor-manufacturing-technology/home.html).
+:rocket: Simulation Scientist at Zeiss Semiconductor Manufacturing Technology.
 
 :bar_chart: Classical Numerics, data-driven methods, inverse problems, high-performance computing.
 
